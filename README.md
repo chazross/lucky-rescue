@@ -2,7 +2,7 @@
 **Created by:** Chaz Ross  
 🔗 [View on GitHub](https://github.com/chazross/lucky-rescue)
 
-## Project Overview:
+### Project Overview:
   <p>
     The Lucky Horse Rescue website is a front-end focused, single-page application built to support a fictional animal rescue organization. Designed with both aesthetics and usability in mind, this project highlights my ability to create visually engaging, user-friendly interfaces that communicate a clear message and drive interaction.</p>
     <p>Key goals of the project include:</p>
@@ -12,7 +12,7 @@
     * Implementing a functional and accessible contact form
 
   
-## Front-End Highlights: 
+### Front-End Highlights: 
   * Single-page layout with anchor-based navigation across three core sections
   * Clean, responsive multi-column design using Bootstrap grid system
   * Interactive contact form:
@@ -23,7 +23,7 @@
   * Custom styling and layout enhancements using CSS3
 
 
-## Technologies used:
+### Technologies used:
 * HTML5 – semantic structure and accessibility
 * CSS – custom styling and responsive tweaks
 * Bootstrap – layout, grid system, and components for responsiveness
