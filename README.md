@@ -1,4 +1,4 @@
-## Lucky Horse Rescue Website  
+# Lucky Horse Rescue Website  
 **Created by:** Chaz Ross  
 🔗 [View on GitHub](https://github.com/chazross/lucky-rescue)
 
